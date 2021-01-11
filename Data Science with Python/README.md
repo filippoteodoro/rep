@@ -1,1 +1,1 @@
-Course attended @ https://www.coursera.org/specializations/data-science-python#courses
+Course attended @ https://www.coursera.org/specializations/data-science-python
