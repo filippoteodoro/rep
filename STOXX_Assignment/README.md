@@ -1,1 +1,1 @@
-Course attended @ ESSEC Business School
+Python course attended @ ESSEC Business School
